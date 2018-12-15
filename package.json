@@ -1,0 +1,15 @@
+{
+  "name": "00-homework",
+  "version": "1.0.0",
+  "description": "### Overview In this activity, you'll publish and install your own NPM package within a nodejs project. Your code will use custom scripts to automate tasks, build, start, and test your project code.  ### Before You Begin   - Make sure you have created a free NPM account.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "w4tsnpmhw": "^1.0.3"
+  }
+}
